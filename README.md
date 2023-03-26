@@ -1,4 +1,5 @@
-# large-file-breakpoint-upload-about-vue
+# Vue实现大文件上传和断点续传
+## large-file-breakpoint-upload-about-vue
 
 ## vue实现大文件上传 断点上传
 FileReader及文件流处理方案  
